@@ -1,6 +1,6 @@
 # Welcome to my Leetcode journey
 
-Learning computer science fundementals; like algorithms and data structures is always something I've wanted to throw myself into. I've learnt basics before in education but within a CS degree; I have noticed this is a huge grey area, and gap in my resume.
+Learning computer science fundementals; like algorithms and data structures is always something I've wanted to throw myself into. I've learnt basics before in education but without a CS degree; I have noticed this is a huge grey area, and gap in my resume.
 
 For this reason, I've decided to document my journey into learning these core concepts publicly, to both hold myself accountable, and track my progress somewhere central.
 
