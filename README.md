@@ -16,6 +16,7 @@ I am splitting my repository up to segregate the different languages I decide to
 
 ## Progress
 
-| Problem | Type  | Difficulty | Solution           |
-| ------- | ----- | ---------- | ------------------ |
-| Two Sum | Array | Easy       | [TypeScript](link) |
+| Problem           | RunTime | Memory  | Type  | Difficulty | Solution           |
+| ----------------- | ------- | ------- | ----- | ---------- | ------------------ |
+| Two Sum           | 32ms    | 56.5MB  | Array | Easy       | [TypeScript](link) |
+| Palindrome Number | 8ms     | 64.96MB | Math  | Easy       | [TypeScript](link) |

@@ -4,9 +4,10 @@
     @example: 121 returns true, 123 returns false
     @note - I wanted to have a go at solving isPalindrome practicing manual indexing and looping. I have created a
     isPalindromeV2 using native JS functions. 
-
  */
 
+// Runtime: 8ms
+// Memory: 64.96MB
 function isPalindromeV1(x: number): boolean {
   const splitNums = x.toString().split(""); //remember: you don't have to keep the type the same. it takes number and returns boolean.
   const newSplitNums: string[] = [];
