@@ -1,3 +1,6 @@
+/**
+ * I'm sure there are more efficient ways to do this, but I wanted to make it as readable as possible.
+ */
 const numerals = [
   { I: 1 },
   { V: 5 },
