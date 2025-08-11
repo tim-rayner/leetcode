@@ -22,3 +22,4 @@ I am splitting my repository up to segregate the different languages I decide to
 | Palindrome Number                  | 8ms     | 64.96MB | Math      | Easy       | [TypeScript](link) |
 | Roman to Integer                   | 8ms     | 62.01MB | Algorithm | Easy       | [TypeScript](link) |
 | Remove Duplicates From Sorted List | 0ms     | 58.24MB | Algorithm | Easy       | [TypeScript](link) |
+| Longest Common Prefix              | 1ms     | 57.99MB | Algorithm | Easy       | [TypeScript](link) |
